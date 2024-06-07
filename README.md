@@ -2,6 +2,7 @@
 - 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Fullstack Wev development
+- 💞️ I’m looking for an internship/job
 - 📫 How to reach me ... mail me on rishikeshsurya786@gmail.com
 - 😄 Pronouns: ... Rishi
 - ⚡ Fun fact: ... Ants take rest for around 8 Minutes in 12-hour period.
